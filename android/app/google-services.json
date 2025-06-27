@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "691911452569",
+    "project_id": "graduation-19097",
+    "storage_bucket": "graduation-19097.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691911452569:android:7eb1df098398cd6a629508",
+        "android_client_info": {
+          "package_name": "com.example.therapy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaiTWvglhREczwNQMJe3Yx4103SSpfwGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
