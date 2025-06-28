@@ -16,7 +16,7 @@ class ChatBubble extends StatelessWidget {
         padding: const EdgeInsets.all(12),
         constraints: BoxConstraints(
           maxWidth: MediaQuery.of(context).size.width *
-              0.7, // تحديد العرض الأقصى للفقاعة
+              0.7, 
         ),
         decoration: BoxDecoration(
           color: isUser ? AppColor.blue : AppColor.Grey,
